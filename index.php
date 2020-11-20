@@ -19,6 +19,8 @@
   <section class="sectionMain">
     <div class="container">
       <div class="sectionMain__contentList">
+
+      <h1> Hello world</h1> 
           	
   	<?php include "./include/main_page_bonus_atlanticspins.php"; ?>
     <?php include "./include/main_page_bonus_21casino.php"; ?>
