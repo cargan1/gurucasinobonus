@@ -108,7 +108,6 @@
     
     <div class="footer__bottom">
       <p>Gambling can easily become an addictive endeavor. Remember to play and pay responsibly in order to stay in control of the time and expenditure you invest in online gaming. You must be 18 years or older to play at GuruCasinoBonus and the casinos presented by the page. All our casino and game reviews can be considered as commercial content. You should always make sure that you meet all regulatory requirements before playing in any selected casino. <br>Copyright November <?php echo date("Y"); ?>© GuruCasinoBonus.com, All Rights reserved. </p>
-    <p>GuruCasinoBonus is published by: VitaMediaGroup, Hellerupvej 8, 2900 Hellerup, Denmark.</p>
     </div>
 
 
