@@ -1,0 +1,20 @@
+{
+  "name": "004",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch-sass": "node-sass sass/main.scss css/main.css -w",
+    "compile": "node-sass sass/main.scss css/main.css",
+    "prefix-css": "postcss css/main.css --use autoprefixer --output css/style.prefix.css",
+    "compress-css": "node-sass css/style.prefix.css css/style.min.css --output-style compressed",
+    "build-css": "npm-run-all prefix-css compress-css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^7.0.0",
+    "imagemin-webp": "^5.1.0",
+    "node-sass": "^4.12.0"
+  }
+}
