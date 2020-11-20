@@ -41,7 +41,7 @@
   <section class="sectionBottomText">
     <div class="container">
       <div class="sectionBottomText__upperPart">
-        <h1>AtlanticSpins Casino Bonus Codes 2020</h1>
+        <h1>AtlanticSpins Casino Bonus Codes 2020 TESTTEST</h1>
     		  <p>
 If you are looking for a brand-new casino to sink your teeth into, then Atlantic spins is the place for you. Specializing in slot machines and online games, this is a cutting-edge casino that offers nothing but the very best. We all know how important slot machines are, when it comes to the online gambling experience. This is especially relevant when it comes to gambling and playing that is enjoyable, engaging and useful for the players. Plenty of casino focus on many different styles of gameplay, but very few actually perfect any of them. That’s what sets Atlantic spins apart from the rest. Not only do they specialize in amazing slot machines games, but they know how to treat their players and how to make the experience seamless and fun for everyone involved.
 		  </p>    
