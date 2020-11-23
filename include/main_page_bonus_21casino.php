@@ -52,7 +52,7 @@
           </div>
     
           <div class="sectionMain__contentList__item__contentRight">
-            <h3>21CASINO $2000 Welcome Bonus</h3>
+            <h3>21.COM CASINO $2000 Welcome Bonus</h3>
             <div class="sectionMain__contentList__item__contentRight__topBtns">
               <a href="#" class="playerTypeBtn">
                 <picture>

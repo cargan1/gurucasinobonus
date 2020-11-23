@@ -155,7 +155,7 @@ After all, you’re meant to enjoy the thrill of the game and the win, and these
         <p>
 Now that you’re feeling hyped up, we highly suggest that you go and check out their site and see the bonuses and plethora of games for yourself! After all, you never know if a casino is a good fit for you, until you try it out a little bit, right? So, are you excited yet? If you want to find out more about the bonuses that are offered, go and check out Atlantic Spins’ full website. Atlantic Spins come highly recommended by hundreds of experienced players and are fully compliant with gambling laws and legislation, so you don’t have to worry about a thing.  
         </p>
-<p>To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. For more chances to win and profit, sign up today and benefit from the world-class bonus system! CLICK HERE TO JOIN!</p>	
+<p>To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. For more chances to win and profit, sign up today and benefit from the world-class bonus system! <a href="https://vmltracker.com/trk/click/?cid=15773&geo=CA&mid=3">CLICK HERE TO JOIN!</a> </p>	
 			<p>**This review is affiliated with Atlantic Spins Casinos. For full terms and conditions, review the Terms and Conditions page, which can be found on the main website. For any questions, make sure to contact support at Atlantic Spins Casino. Please gamble responsibly.
 				</p>
   <br />
