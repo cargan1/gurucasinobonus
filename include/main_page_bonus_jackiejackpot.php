@@ -52,7 +52,7 @@
           </div>
     
           <div class="sectionMain__contentList__item__contentRight">
-            <h3>JackieJackpot: 100 Free Spins No Deposit</h3>
+            <h3>JackieJackpot: 100 Free Spins</h3>
             <div class="sectionMain__contentList__item__contentRight__topBtns">
               <a href="#" class="playerTypeBtn">
                 <picture>
@@ -71,7 +71,7 @@
             </div>
       
             <p>
-Take advantage of our 100 Free Spins, No Deposit offer! Super-charge your playing experience with all-new bonuses and amazing games.
+            Take advantage of our 100 Free Spins + 100% up to $200 offer! Super-charge your playing experience with all-new bonuses and amazing games.
             </p>
       
             <div class="sectionMain__contentList__item__contentRight__bottomBtns">

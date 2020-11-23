@@ -198,7 +198,7 @@ Hurry, though! We can’t guarantee that this bonus will be available forever. A
         <p>
 If you’re as excited as we are, we have good news! Signing up is simple and easy and you can start right now. If you want to find out more about the bonuses that are offered, go and check out Winnersmagic’s full website. Winnersmagic come highly recommended by hundreds of experienced players and are fully compliant with gambling laws and legislation, so you don’t have to worry about a thing.  
 </p>
-<p>To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. For more chances to win and profit, sign up today and benefit from the world-class bonus system! CLICK HERE TO JOIN!</p>	
+<p>To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. For more chances to win and profit, sign up today and benefit from the world-class bonus system! <a href="./claim-bonus/winnersmagic.php">CLICK HERE TO JOIN!</a></p>	
 			<p>
 **This review is affiliated with Winnersmagic Casinos. For full terms and conditions, review the Terms and Conditions page, which can be found on the main website. For any questions, make sure to contact support at Winnersmagic Casino. Please gamble responsibly.
 	 </p>		

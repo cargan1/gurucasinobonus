@@ -353,7 +353,7 @@
                    
 			<li>
               <a href="./21casino-bonus-codes.php">
-                <h3>21Casino Bonus Codes</h3>
+                <h3>21.com Casino Bonus Codes</h3>
                 <div class="sectionMain__sideWidget__widgetOne__downIcon">
                   <picture>
                     <source srcset="img/webp/downIcon.webp" type="image/webp">

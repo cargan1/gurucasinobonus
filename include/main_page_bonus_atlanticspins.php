@@ -52,7 +52,7 @@
           </div>
     
           <div class="sectionMain__contentList__item__contentRight">
-            <h3>Atlantic Spins 10 Free Spins No Deposit</h3>
+            <h3>Atlantic Spins 10 Free Spins</h3>
             <div class="sectionMain__contentList__item__contentRight__topBtns">
               <a href="#" class="playerTypeBtn">
                 <picture>
@@ -71,7 +71,7 @@
             </div>
       
             <p>
-              Don’t miss out on these amazing bonus offers, exclusive to new members. When you join us, you’ll receive 10 Free Spins No Deposit, free of charge.
+            Don’t miss out on this amazing bonus offer, exclusive to new members. When you join us, you’ll receive $10 bonus + 10 Free Spins by depositing $10.
             </p>
       
             <div class="sectionMain__contentList__item__contentRight__bottomBtns">

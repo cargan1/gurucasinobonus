@@ -71,7 +71,7 @@
             </div>
       
             <p>
-             Get access to the latest games with our $1100 deposit-match bonus. As a welcome to our new members, your first rounds of betting are on us!
+            Get access to the latest games with our $1000 deposit-match bonus. As a welcome to our new members, your first rounds of betting are on us!
             </p>
       
             <div class="sectionMain__contentList__item__contentRight__bottomBtns">

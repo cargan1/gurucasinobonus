@@ -49,7 +49,7 @@ Have you been hungering for a simple playstyle, online casino that offers amazin
 
 <?php include "./include/review_page_horizontal_box_kaiserslots.php"; ?>
 
-<p>One of the great things about Kaiser slot casino is that they can focus on bringing high-value plays, right to you! Gone are the ways where you needed to wager hundreds of dollars! The games are affordable and it’s really easy to get started. They even include a great starting bonus, to help get you on the right track. One of the things that makes this bonus so effective, is how far your money can go on this site (slots, remember?). Not only do Kaiser slots offer you a 100% match, but they also offer 10 free spins when you sign up! This allows you to properly experience the website and get more bang for your buck. Your money goes further and, to be honest, what else do you need?</p>
+<p>One of the great things about Kaiser slot casino is that they can focus on bringing high-value plays, right to you! Gone are the ways where you needed to wager hundreds of dollars! The games are affordable and it’s really easy to get started. They even include a great starting bonus, to help get you on the right track. One of the things that makes this bonus so effective, is how far your money can go on this site (slots, remember?). Not only do Kaiser slots offer you a 100% match, but they also offer 25 free spins when you sign up! This allows you to properly experience the website and get more bang for your buck. Your money goes further and, to be honest, what else do you need?</p>
       </div>
     </div>
   </section>
@@ -59,7 +59,7 @@ Have you been hungering for a simple playstyle, online casino that offers amazin
       <div class="sectionBottomText__upperPart">
         <h2>KaiserSlots Casino Bonus Codes</h2>
         <p>
-The code that you need to remember for this is KAISER. It’s a pretty easy code to remember, but it has a lot of impact on your experience. You see, the Kaiser Slots Welcome Bonus is a 100% bonus on your first deposit up to CAD $10 Unless otherwise stated. This bonus only applies for deposits of CAD $10 or higher, and it’s really easy to get it. All you need to do is just deposit the money in your Kaiser Slots account with bonus code KAISER! Please note that in the interests of fair gaming, they require you to have wagered a minimum of 35 times the sum of your welcome bonus before cashing out any winnings. That said, it’s pretty easy to do on slots, and by that time, you’ll have evened out your wins and your losses to an over-all profit, especially with all of their drops!
+The code that you need to remember for this is MAPLE25. It’s a pretty easy code to remember, but it has a lot of impact on your experience. You see, the Kaiser Slots Welcome Bonus is a 100% bonus on your first deposit up to $50 Unless otherwise stated. This bonus only applies for deposits of $50 or higher, and it’s really easy to get it. All you need to do is just deposit the money in your Kaiser Slots account with bonus code MAPLE25! Please note that in the interests of fair gaming, they require you to have wagered a minimum of 35 times the sum of your welcome bonus before cashing out any winnings. That said, it’s pretty easy to do on slots, and by that time, you’ll have evened out your wins and your losses to an over-all profit, especially with all of their drops!
         </p>
 </div>
       
@@ -81,13 +81,13 @@ The code that you need to remember for this is KAISER. It’s a pretty easy code
     
             <h4>Welcome Bonuss</h4>
             <span></span>
-            <h4>KAISER</h4>
+            <h4>MAPLE25</h4>
             <span></span>
             <h4>2020-December-31</h4>
             <span></span>
-            <h4>$10</h4>
+            <h4>$50</h4>
 			<span></span>
-            <h4>100% Bonus on Deposit</h4>
+            <h4>100% Bonus up to $50 + 25 free spins</h4>
           </div>
   
 
@@ -104,10 +104,10 @@ The code that you need to remember for this is KAISER. It’s a pretty easy code
       <div class="sectionBottomText__textThree">
         <h2>Casino Free Spin Codes</h2>
         <p>
-Another fantastic component of the Kaiser slot website is the fact that they offer free spins. Now, free spins are pretty common on most online casinos, as it helps players familiarize themselves with the play. The thing that sets Kaiser apart, is how far your spins can go, especially on a website that is designed to cater for slot machine players. While 10 spins might not seem like a big number, it’s plenty of spins to familiarize yourself with the games and get a good understanding of which games suit you and your playing style.
+Another fantastic component of the Kaiser slot website is the fact that they offer free spins. Now, free spins are pretty common on most online casinos, as it helps players familiarize themselves with the play. The thing that sets Kaiser apart, is how far your spins can go, especially on a website that is designed to cater for slot machine players. While 25 spins might not seem like a big number, it’s plenty of spins to familiarize yourself with the games and get a good understanding of which games suit you and your playing style.
         </p>
         <p>
-Not only that, but every pro-gambler knows that 10 spins are more than enough to start winning! If you want to try out Starburst, one of the most popular games on the site, you can also use these spins to try it out 100% risk-free. After all, these spins are here to give you the head start you need to get some quick wins in, fast! With the thrill of the game and the extensive collection, don’t underestimate just how far these free spins can go. Besides free spins are free spins, right?
+Not only that, but every pro-gambler knows that 25 spins are more than enough to start winning! If you want to try out Starburst, one of the most popular games on the site, you can also use these spins to try it out 100% risk-free. After all, these spins are here to give you the head start you need to get some quick wins in, fast! With the thrill of the game and the extensive collection, don’t underestimate just how far these free spins can go. Besides free spins are free spins, right?
         </p>
 		</div>
 	      <div class="sectionBottomText__middleBox">
@@ -130,7 +130,7 @@ Not only that, but every pro-gambler knows that 10 spins are more than enough to
             <span></span>
             <h4>2020-December-31</h4>
             <span></span>
-            <h4>10</h4>
+            <h4>25</h4>
           </div>
   
 
@@ -147,7 +147,7 @@ Not only that, but every pro-gambler knows that 10 spins are more than enough to
   <div class="sectionBottomText__textThree">
         <h2>KaiserSlots Welcome Bonus</h2>
         <p>
-The welcome bonus shouldn’t be underestimated, especially, as we said, with the style of gaming available on this site. Sometimes, overcomplicated betting can get in the way of enjoying the process for what it is and chasing the real and genuine thrill that we all love. Whether you have just started playing, or have been playing for years, this is a site that will accommodate you. New players are welcome, and the 10-spin bonus on Starburst will do wonders to get you started. Not only is Starburst a simple game, but it is a lot of fun and adds a great element to the world of slot machine gaming. The fact that you can start learning from the comfort of your own home, with free spins, just makes things that much better.
+The welcome bonus shouldn’t be underestimated, especially, as we said, with the style of gaming available on this site. Sometimes, overcomplicated betting can get in the way of enjoying the process for what it is and chasing the real and genuine thrill that we all love. Whether you have just started playing, or have been playing for years, this is a site that will accommodate you. New players are welcome, and the 25-spin bonus. The fact that you can start learning from the comfort of your own home, with free spins, just makes things that much better.
         </p>
         <p>
 If you are an experienced player, then you’ll love the fresh new range of games, which complement existing favorites and make up an impressive line-up. With a 100% match for your first deposit, you can enjoy double your fun, double your spins and double your winnings!
@@ -175,9 +175,9 @@ If you are an experienced player, then you’ll love the fresh new range of game
             <span></span>
             <h4>2020-December-31</h4>
             <span></span>
-            <h4>$10</h4>
+            <h4>$50</h4>
 			<span></span>
-            <h4>100% Match Bonus</h4>
+            <h4>100% Bonus up to $50 + 25 free spins</h4>
           </div>
   
 

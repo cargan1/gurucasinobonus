@@ -44,7 +44,7 @@
         <h1>MrGreen Casino Bonus Codes 2020</h1>
         
         <p>
-If you’re looking for a Casino that offers great Bonuses and no-deposit spins, then look no further than Mr. Green’s Casino. The bonuses that they offer are some of the best in the industry. Today, we’ll take a look at what Mr. Green Casino has to offer and what makes their bonuses so worth-while! The three major selling points are the 25 deposit-free spins that you get, just for signing up! Then, you’ll also receive access to 200 free spins, and a 100% match when you deposit money into your account! With 25 deposit-free spins to try it out and 200 free spins, once you’ve put money in, there’s no wonder this is an industry favorite for players all around the world.
+If you’re looking for a Casino that offers great Bonuses and no-deposit spins, then look no further than Mr. Green’s Casino. The bonuses that they offer are some of the best in the industry. Today, we’ll take a look at what Mr. Green Casino has to offer and what makes their bonuses so worth-while! Receive access to 200 free spins, and up to $1200 when you deposit money into your account! Once you’ve put money in, there’s no wonder this is an industry favorite for players all around the world.
 		  </p>
 <?php include "./include/review_page_horizontal_box_mrgreen.php"; ?>
 		  
@@ -95,41 +95,6 @@ Okay, so, when you join up for Mr. Green’s Casino, you’ll receive 200 free s
 
       </div>
   
-      <div class="sectionBottomText__textThree">
-        <h2>Casino Free Spin No Deposits Codes</h2>
-        <p>
-One of the major selling-points at Mr. Green Casino is the fact that they offer 25 no-deposit, free spins, just for signing up! That’s a huge saving! Free-spins are great because they are not tied to any specific amount of money, that you deposit. They allow you to fully experience what the website has to offer, and understand what makes the Casino great. After all, no two Casinos are alike and making sure that a casino is right for you, is part of the process. What better way to do this, then through a free offer? 25 spins are more than enough to help you get a good understanding of the website, the games that they offer and whether or not this is a good fit for you (although, based on the vast selection of games, it probably will be!).
-        </p>
-        <p>
-To start with, this 25 Spin bonus has very few limitations to it. You don’t need to deposit money to be able to play it! Most online Casino only has welcome bonuses that come into play once you’ve already given them money. This is pretty standard practice, and it is to help the casino make a profit, and make sure that their players stay engaged. After all, no casino wants you to take their bonuses and run. That said, Mr. Green’s casino is something special; they let you try out their systems before you deposit a single cent! And if that’s not value for money, then I don’t know what is!
-        </p>
-		</div>
-	      <div class="sectionBottomText__middleBox">
-        <div class="sectionBottomText__middleBox__container">
-          <div class="sectionBottomText__middleBox__container__left">
-    
-            <h3>Casino Bonus Type:</h3>
-            <span></span>
-            <h3>Bonus Code:</h3>
-            <span></span>
-            <h3>Expires On: </h3>
-            <span></span>
-            <h3>Free Spins: </h3>
-          </div>
-          <div class="sectionBottomText__middleBox__container__right">
-    
-            <h4>Free Spins No Deposit</h4>
-            <span></span>
-            <h4>None</h4>
-            <span></span>
-            <h4>2020-December-31</h4>
-            <span></span>
-            <h4>25</h4>
-          </div>
-  
-
-        </div>
-  
         <div class="sectionBottomText__middleBox__btn">
                     <a href="/claim-bonus/mrgreen.php" role="button">TAKE BONUS</a>
     
@@ -141,7 +106,7 @@ To start with, this 25 Spin bonus has very few limitations to it. You don’t ne
   <div class="sectionBottomText__textThree">
         <h2>Mr. Green Welcome Bonus</h2>
         <p>
-Another great aspect of Mr. Geen’s casino is the extra welcome bonus that you receive. Not only do you get 225 free spins (all up), but you also receive a 100% match on your deposit! A 100% match is a pretty big deal, no matter how you look at it! After all, it allows you to place bigger bets, and win more money than you would, with just the money you deposited. 100% matches are really rare, even for sign-up bonuses, and finding one that pays as well as Mr. Green is even rarer!
+Another great aspect of Mr. Geen’s casino is the extra welcome bonus that you receive. Not only do you get 200 free spins (all up), but you also receive a 100% match on your deposit! A 100% match is a pretty big deal, no matter how you look at it! After all, it allows you to place bigger bets, and win more money than you would, with just the money you deposited. 100% matches are really rare, even for sign-up bonuses, and finding one that pays as well as Mr. Green is even rarer!
         </p>
         <p>
 Now, it’s important to note that there is a minimum of $10, or its equivalent in any of the other accepted currencies, to a Player Account. This is a protective measure, just to make sure there are not too many fees coming into play, for either the casino or the player! Additionally, when it comes to drawing your money, you’ll be able to immediately access all of your own money, and winnings! You can use your 100% match to keep profiting, but you can’t draw it as winnings, which is true for most bonuses. And that’s okay because it can still make you money through clever betting, or spins!
@@ -171,7 +136,7 @@ Now, it’s important to note that there is a minimum of $10, or its equivalent 
             <span></span>
             <h4>$10</h4>
 			<span></span>
-            <h4>100% Match Bonus</h4>
+            <h4>100% deposit match up to $1200</h4>
           </div>
   
 
@@ -197,7 +162,7 @@ Now, it’s important to note that there is a minimum of $10, or its equivalent 
 **This review is affiliated with Mr. Green Casinos. For full terms and conditions, review the Terms and Conditions page, which can be found on the main website. For any questions, make sure to contact support at Mr. Green’s Casino. Please gamble responsibly.
 	 </p>
   <br />
-        <h2 align="center">mrgreen Alternative Casino Bonus Codes</h2>
+        <h2 align="center">Mr. Green Alternative Casino Bonus Codes</h2>
     </div>
 
       <div class="sectionBottomText__reviewBonus">

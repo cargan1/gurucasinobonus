@@ -70,6 +70,6 @@
           <div class="sectionBonusList__allItems__item__btn">
 			  <a href="./claim-bonus/21casino.php" role="button">CLAIM BONUS</a>
       
-            <a href="./claim-bonus/21casino.php">Visit Casumo</a>
+            <a href="./claim-bonus/21casino.php">Visit 21.com Casino</a>
           </div>
         </div>

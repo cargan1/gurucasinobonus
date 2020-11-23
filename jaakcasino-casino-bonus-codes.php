@@ -49,7 +49,7 @@ If you’re looking to spice up your slot machine play, then Jaak is a great cho
 
 <?php include "./include/review_page_horizontal_box_jaakcasino.php"; ?>
 
-<p>When you deposit money to start playing, you’ll receive a bonus of $10, as well as 10 free spins on the popular game, Starburst! Starburst is one of the most popular games on the site (as well as across other casinos) and is known for its impressive drops. If you want a chance at 10 free spins (and 10 free chances to win!), then read on for more information on what the bonus entails, why its beneficial for new players, and where you can go to sign up and claim your bonus today, before the promotion ends!</p>
+<p>When you deposit money to start playing, you’ll receive a bonus of $50, as well as 25 free spins. If you want a chance at 25 free spins (and 25 free chances to win!), then read on for more information on what the bonus entails, why its beneficial for new players, and where you can go to sign up and claim your bonus today, before the promotion ends!</p>
       </div>
     </div>
   </section>
@@ -59,7 +59,7 @@ If you’re looking to spice up your slot machine play, then Jaak is a great cho
       <div class="sectionBottomText__upperPart">
         <h2>JaakCasino Casino Bonus Codes</h2>
         <p>
-To start with, the JAAK CASINO welcome Bonus is 100% bonus on your first deposit up to $10 Unless otherwise stated. This bonus only applies for deposits of $10 or higher! All you need to do is just deposit the money in your JAAK CASINO account with bonus code JAAK! Please note that in the interests of fair gaming, they will require you to have wagered a minimum of 35 times the sum of your welcome bonus before cashing out any winnings. That said, it’s not exactly a huge amount of wagers, especially for those of us who are serious about gaming! Additionally, when it comes to slot machines, it’s amazing just how far that $10 will take you! After all, this money is absolutely free, and you get to keep all of your winnings that you receive through that bonus. This is a great way to make extra money, fast! You can wager higher and win more!
+To start with, the JAAK CASINO welcome Bonus is 100% bonus on your first deposit up to $50 Unless otherwise stated. This bonus only applies for deposits of $50 or higher! All you need to do is just deposit the money in your JAAK CASINO account with bonus code JAAK! Please note that in the interests of fair gaming, they will require you to have wagered a minimum of 35 times the sum of your welcome bonus before cashing out any winnings. That said, it’s not exactly a huge amount of wagers, especially for those of us who are serious about gaming! Additionally, when it comes to slot machines, it’s amazing just how far that $50 will take you! After all, this money is absolutely free, and you get to keep all of your winnings that you receive through that bonus. This is a great way to make extra money, fast! You can wager higher and win more!
         </p>
 </div>
       
@@ -81,13 +81,13 @@ To start with, the JAAK CASINO welcome Bonus is 100% bonus on your first deposit
     
             <h4>Welcome Bonuss</h4>
             <span></span>
-            <h4>JAAK!</h4>
+            <h4>MAPLE25</h4>
             <span></span>
             <h4>2020-December-31</h4>
             <span></span>
-            <h4>$10</h4>
+            <h4>$50</h4>
 			<span></span>
-            <h4>100% Bonus on Deposit</h4>
+            <h4>100% deposit match up to $50 + 25 free spins</h4>
           </div>
   
 
@@ -137,13 +137,13 @@ With cutting-edge games and incredibly high-quality graphics and website design,
     
             <h4>Welcome Bonus</h4>
             <span></span>
-            <h4>JAAK!</h4>
+            <h4>MAPLE25</h4>
             <span></span>
             <h4>2020-December-31</h4>
             <span></span>
-            <h4>$10</h4>
+            <h4>$50</h4>
 			<span></span>
-            <h4>100% Match Bonus</h4>
+            <h4>100% deposit match up to $50 + 25 free spins</h4>
           </div>
   
 

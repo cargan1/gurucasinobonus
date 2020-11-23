@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>21 Casino Bonus Codes - Guru Casino Bonus</title>
-    <meta name="description" content="Enjoy amazing casino bonus codes at JaakCasino including welcome bonuses, exclusive bonuses and free spins no deposits bonuses.">
+    <meta name="description" content="Enjoy amazing casino bonus codes at 21.com Casino including welcome bonuses, exclusive bonuses and free spins no deposits bonuses.">
   <style>
     @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap');
   </style>
@@ -44,7 +44,7 @@
         <h1>21 Casino Bonus Codes 2020</h1>
         
         <p>
-If you’re looking to spice up your slot machine play, then Jaak is a great choice for you. Jaak Casinos specialize in slot machine games, and offer over 400 amazing, dynamic ways to win big! With regular drops a daily prize, you’re practically guaranteed to have a good time on their website. Not only is Jaak a great value-for-money online casino, but they are also currently offering a pretty great bonus for new members who join their website.
+If you’re looking to spice up your slot machine play, then 21.com  is a great choice for you. 21.com  Casinos specialize in slot machine games, and offer over 400 amazing, dynamic ways to win big! With regular drops a daily prize, you’re practically guaranteed to have a good time on their website. Not only is 21.com  a great value-for-money online casino, but they are also currently offering a pretty great bonus for new members who join their website.
 		  </p>
 
 <?php include "./include/review_page_horizontal_box_21casino.php"; ?>
@@ -57,10 +57,17 @@ If you’re looking to spice up your slot machine play, then Jaak is a great cho
   <section class="sectionBottomText">
     <div class="container">
       <div class="sectionBottomText__upperPart">
-        <h2>JaakCasino Casino Bonus Codes</h2>
+        <h2>21.com Casino Bonus Codes</h2>
         <p>
-To start with, the JAAK CASINO welcome Bonus is 100% bonus on your first deposit up to $10 Unless otherwise stated. This bonus only applies for deposits of $10 or higher! All you need to do is just deposit the money in your JAAK CASINO account with bonus code JAAK! Please note that in the interests of fair gaming, they will require you to have wagered a minimum of 35 times the sum of your welcome bonus before cashing out any winnings. That said, it’s not exactly a huge amount of wagers, especially for those of us who are serious about gaming! Additionally, when it comes to slot machines, it’s amazing just how far that $10 will take you! After all, this money is absolutely free, and you get to keep all of your winnings that you receive through that bonus. This is a great way to make extra money, fast! You can wager higher and win more!
-        </p>
+        To start with, the 21.com casino welcome bonus is 100% bonus on your first deposit up to $100 Unless otherwise stated. All you need to do is just deposit the money in your 21.com casino account with bonus code BON1. Please note that in the interests of fair gaming, they will require you to have wagered a minimum of 50 times the sum of your welcome bonus before cashing out any winnings. That said, it’s not exactly a huge amount of wagers, especially for those of us who are serious about gaming! Additionally, when it comes to slot machines, it’s amazing just how far that $100 will take you! After all, this money is absolutely free, and you get to keep all of your winnings that you receive through that bonus. This is a great way to make extra money, fast! You can wager higher and win more! 
+<br><br>
+1st deposit: 100% bonus up to $100. Use deposit code: BON1 <br>
+2nd deposit: 25% bonus up to $500. Use deposit code: BON2 <br>
+3rd deposit: 50% bonus up to $300. Use deposit code: BON3 <br>
+4th deposit: 100% bonus up to $100.Use deposit code: BON4 <br>
+<br><br>
+Bonus Rules: Wagering requirement is x50 / Wagering requirement on deposit bonus must be completed within 21 Days / Wagering requirement on Free Spins winnings must be completed within 1 Day / Minimum deposit to claim Welcome Bonus is $25 / The 10 daily Free Spins will be credited to your account: The 10 daily Free Spins will be credited to your account: Frist 10 Free Spins will be activated on registration and 900 Free Spins (10 Free Spins everyday for 90 days) will be activated once you make a deposit. / Free Spins that haven't been played will not be accumulated but considered unredeemed and cannot be used at a later stage. / 21.com’s general Terms & Conditions and Bonus rules apply.
+ </p>
 </div>
       
       <div class="sectionBottomText__middleBox">
@@ -81,13 +88,13 @@ To start with, the JAAK CASINO welcome Bonus is 100% bonus on your first deposit
     
             <h4>Welcome Bonuss</h4>
             <span></span>
-            <h4>JAAK!</h4>
+            <h4>BON1</h4>
             <span></span>
             <h4>2020-December-31</h4>
             <span></span>
             <h4>$10</h4>
 			<span></span>
-            <h4>100% Bonus on Deposit</h4>
+            <h4>100% bonus up to $100</h4>
           </div>
   
 
@@ -111,12 +118,12 @@ Free spins are amazing for learning how to play the game, and getting a head sta
         </p>
 		</div> 
   <div class="sectionBottomText__textThree">
-        <h2>JaakCasino Welcome Bonus</h2>
+        <h2>21.com Casino Welcome Bonus</h2>
         <p>
-The Jaak welcome bonus might not look like much to the untrained or unexperienced eye, but it can make a huge difference in how the game is played, and how successful you are! After all, slot machines (even online ones), just don’t require the same betting power as sports, or roulette, for example. It is important to remember that $10 can go a long, long way if you’re playing slots, and can make a big difference. 10 spins, too, can mean the difference between winning and losing, so make sure that you take full advantage of that as soon as possible! If you use your free spins within the first day, you’re almost guaranteed winnings for your efforts. And besides, free spins are great,  no matter how you look at them, and who would turn down free cash in the form of a $10 bonus?
+The 21.com  welcome bonus might not look like much to the untrained or unexperienced eye, but it can make a huge difference in how the game is played, and how successful you are! After all, slot machines (even online ones), just don’t require the same betting power as sports, or roulette, for example. It is important to remember that $10 can go a long, long way if you’re playing slots, and can make a big difference. 10 spins, too, can mean the difference between winning and losing, so make sure that you take full advantage of that as soon as possible! If you use your free spins within the first day, you’re almost guaranteed winnings for your efforts. And besides, free spins are great,  no matter how you look at them, and who would turn down free cash in the form of a $10 bonus?
         </p>
         <p>
-With cutting-edge games and incredibly high-quality graphics and website design, you’re guaranteed an amazing experience with Jaak casinos. Whether you’re an experienced gambler, of you’re just starting out, this is a fantastic website to visit. This casino will help you cut your teeth as a new player, and help experienced players hone their skills and become the high-rolling success stories that they dream of becoming. So, if that sounds like you, make sure that you don’t miss out, and let someone else get your bonus (and your winnings!).
+With cutting-edge games and incredibly high-quality graphics and website design, you’re guaranteed an amazing experience with 21.com  casinos. Whether you’re an experienced gambler, of you’re just starting out, this is a fantastic website to visit. This casino will help you cut your teeth as a new player, and help experienced players hone their skills and become the high-rolling success stories that they dream of becoming. So, if that sounds like you, make sure that you don’t miss out, and let someone else get your bonus (and your winnings!).
         </p>
     </div>
 			      <div class="sectionBottomText__middleBox">
@@ -137,7 +144,7 @@ With cutting-edge games and incredibly high-quality graphics and website design,
     
             <h4>Welcome Bonus</h4>
             <span></span>
-            <h4>JAAK!</h4>
+            <h4>21.com !</h4>
             <span></span>
             <h4>2020-December-31</h4>
             <span></span>
@@ -158,18 +165,18 @@ With cutting-edge games and incredibly high-quality graphics and website design,
       </div>
   
  <div class="sectionBottomText__textThree">
-        <h2>Exclusive jaakcasino Bonuses</h2>
+        <h2>Exclusive 21.com casino Bonuses</h2>
         <p>
-			If this sounds good to you, make sure that you get in quick! Bonuses like this don’t typically last long, and there’s no harm in getting your hands on some free spins and free cash, is there? If you want to find out more about the bonuses that are offered, go and check out <a href="/claim-bonus/21casino.php" class="linkRed">Jaak’s full website</a>. Jaak come highly recommended by hundreds of experienced players and are fully compliant with gambling laws and legislation, so you don’t have to worry about a thing.  To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry.
+			If this sounds good to you, make sure that you get in quick! Bonuses like this don’t typically last long, and there’s no harm in getting your hands on some free spins and free cash, is there? If you want to find out more about the bonuses that are offered, go and check out <a href="/claim-bonus/21casino.php" class="linkRed">21.com ’s full website</a>. 21.com  come highly recommended by hundreds of experienced players and are fully compliant with gambling laws and legislation, so you don’t have to worry about a thing.  To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry.
 </p>
         <p>
 			If you’ve been on a winning streak later, or if you just need to turn your luck around, then this bonus might just be the chance that you’ve been waiting for. With amazing games on offer, high-quality website services and great bonuses, there’s no better time than now to make your move. For more chances to win and profit, sign up today and benefit from the world-class bonus system! <a href="/claim-bonus/21casino.php" class="linkRed">CLICK HERE TO JOIN!</a>
         </p>
 		<p>
-	 <p>**This review is affiliated with Jaak Casinos. For full <a href="/claim-bonus/21casino.php" class="linkRed">terms and conditions</a>, review the Terms and Conditions page, which can be found on the main website. For any questions, make sure to contact support at Jaak Casino. Please gamble responsibly.</p>
+	 <p>**This review is affiliated with 21.com  Casinos. For full <a href="/claim-bonus/21casino.php" class="linkRed">terms and conditions</a>, review the Terms and Conditions page, which can be found on the main website. For any questions, make sure to contact support at 21.com  Casino. Please gamble responsibly.</p>
 	 </p>
   <br />
-        <h2 align="center">jaakcasino Alternative Casino Bonus Codes</h2>
+        <h2 align="center">21.com casino Alternative Casino Bonus Codes</h2>
     </div>
 
       <div class="sectionBottomText__reviewBonus">

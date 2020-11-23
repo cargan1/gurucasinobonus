@@ -57,17 +57,20 @@ Not only is the top of the range when it comes to gambling, but they are unrival
     <div class="container">
       <div class="sectionBottomText__upperPart">
         <h2>Playamo Casino Bonus Codes</h2>
-<p>When you sign up for PlayAmo, you immediately get a bonus, the moment that you add funds to your account. When you add funds, we will double your deposit amount. The maximum bonus amount is 500 AUD. Depositing 500 AUD will get you 1000 AUD to begin playing with. Please mind the wagering requirement here - the maximum bet is 6,5 AUD. This means that your money will go far, and you’ll get many, many wagers in with this cash. This means more time to play and more chances to win. The special code for this is: FIRSTDEP. Remember that when you are signing up, since it can make all of the difference to your playing! If you need extra incentive, you’ll 20 free spins for the Lucky Lady's Clover slot (in the first 24 hours after signing up) and 20 more spins every day, for the next 4 days! That adds up quickly, especially for a first sign-up deposit bonus.</p>
+
+<p>Add funds in the amount of 500 CAD and get twice as much - 1000 CAD- credited to your account. Catch our regular reload bonuses and take part in slot racesWhile delivering the highest-quality games is our top priority, PlayAmo also takes great pride in our bonuses and promotions. There are more than five different bonus systems on PlayAmo and each of them is unique in their own way. Let’s take a brief look at every single one of them:
+First Deposit Bonus. This is obviously our top pick. It’s the bonus that’s designed to encourage our customers to choose to play casino games at our venue, rather than at our competitors’ sites. Simply make your first deposit and PlayAmo will match it in full and give you 100 free spins. Our Second Deposit Bonus is similar to the first one. Once you’ve made your second deposit, we’ll match 50% of your deposit and give you 50 free spins. Next up, the Second Deposit Bonus which is somewhat similar to the first one. Once you’ve made your second deposit, we’ll add another 50% to it and increase your wagering funds. But again, due to our focus on responsible gambling, we’ll only reward you with a maximum of 1,000 CAD bonus to play casino online for real money. The third bonus is called Friday Reload. Every Friday, your deposits of up to 500 CAD are eligible for a 50% bonus. And that’s not all: you’ll also get 100 free spins for The Golden Owl Of Athena slot.The next bonus, Monday Free Spins, is specifically aimed at video slots. Every Monday, you’re going to get 100 free spins for either Arcane Reel Chaos or Gold Canyon. And if you’re planning to play big with more than 1,500 CAD, we’ve got High Roller Bonus for you. With this bonus, you’ll get 50% on top of your large deposits. With the maximum payout of 3,000 CAD, you can possibly get 9,000 CAD of wagering money when depositing 6,000 CAD!
+</p>
+
+
 </div>
    <div class="sectionBottomText__textThree">
         <h2>Playamo Free Spin No Deposits Codes</h2>
-        <p>
-One amazing thing that really makes PlayAmo stand out in the industry, is the fact that they also offer a second deposit bonus. So, not only will you get rewarded for signing up the first time, but you’ll get rewarded for topping up your account with more money. And, the more that you deposit, the more you will be rewarded.
-        </p>
-        <p>
-For your second deposit, they will give a bonus 50% of your deposit amount. The maximum bonus amount is 1,000 AUD. So, you deposit 2,000 AUD and play with 3,000 AUD. Again, please mind the maximum bet amount is 6,5 AUD when wagering the bonus, which means it will go for ages when you’re playing! Just use the code: SECONDDEP, when making your second deposit, to take full advantage of the offers! When you activate this bonus, you also activate 50 free spins for the Lucky Blue slot! With PlayAmo, the bonuses just keep piling up and up and up! It’s pretty hard to go wrong with an online casino that gives away so much free money and extra, free spins to all of their players. It really helps give you the edge and makes sure that you start ahead of the game. If you want to win, PlayAmo is absolutely the right choice.
-        </p>
-		</div>
+<p>One amazing thing that really makes PlayAmo stand out in the industry, is the fact that they also offer a second deposit bonus. So, not only will you get rewarded for signing up the first time, but you’ll get rewarded for topping up your account with more money. And, the more that you deposit, the more you will be rewarded. For your second deposit, they will give a bonus 50% of your deposit amount. And, the more that you deposit, the more you will be rewarded. Once you make your first deposit, you enroll in our special VIP loyalty rewards program. Every time you make a bet, you collect special points that help you gain loyalty points. </p>
+		<p>There are 10 different levels in the VIP bonus system. Each level comes with its own reward. From Rookie to Star, you’re eligible for tens and hundreds of free spins for our various slot games. Moving up, there’s the Superstar level where you gain money prizes. The upper levels also give out money in much higher amounts. For example, the Royal level rewards you with a staggering 10,000 euros! Move to the final level and we’ll award you with a Ferrari 488 GTB supercar.
+</p>
+    
+    </div>
 	      <div class="sectionBottomText__middleBox">
         <div class="sectionBottomText__middleBox__container">
           <div class="sectionBottomText__middleBox__container__left">
@@ -152,7 +155,7 @@ Now, let’s touch on the free spins that you get when you sign up. 150 spins ar
         <p>
 If you want to find out more about the bonuses that are offered, go and check out PlayAmo’s full website. With cutting-edge bonuses, amazing games and a high-roller matching, this is absolutely the website to use if you are serious about how you play, and how to partake in the game! If you want nothing but the best, then this is the casino for you. PlayAmo comes highly recommended by hundreds of experienced players and are fully compliant with gambling laws and legislation, so you don’t have to worry about a thing.  
         </p>
-<p>To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. After all, if hundreds of people trust PlayAmo, how can you go wrong? Play big, have fun, and make the most out of your bonus cash and spins. For more chances to win and profit, sign up today and benefit from the world-class bonus system! CLICK HERE TO JOIN!</p>	
+<p>To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. After all, if hundreds of people trust PlayAmo, how can you go wrong? Play big, have fun, and make the most out of your bonus cash and spins. For more chances to win and profit, sign up today and benefit from the world-class bonus system! <a href="./claim-bonus/playamo.php">CLICK HERE TO JOIN!</a></p>	
 			<p>**This review is affiliated with PlayAmo Casinos. For full terms and conditions, review the Terms and Conditions page, which can be found on the main website. For any questions, make sure to contact support at PlayAmo Casino. Please gamble responsibly.
 				</p>
   <br />

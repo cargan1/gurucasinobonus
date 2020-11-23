@@ -52,7 +52,7 @@
           </div>
     
           <div class="sectionMain__contentList__item__contentRight">
-            <h3>Betsafe 100% Bonus up to $150</h3>
+            <h3>Betsafe: 100% Bonus up to $1000 + 50 Free Spins</h3>
             <div class="sectionMain__contentList__item__contentRight__topBtns">
               <a href="#" class="playerTypeBtn">
                 <picture>
@@ -71,7 +71,7 @@
             </div>
       
             <p>
-             New members get exclusive access to amazing bonuses. Enjoy VIP access to our 100% Bonus of up to $150.
+            New members get exclusive access to amazing bonuses. Enjoy VIP access to our 100% bonus up to $1000 + 50 free spins.
             </p>
       
             <div class="sectionMain__contentList__item__contentRight__bottomBtns">

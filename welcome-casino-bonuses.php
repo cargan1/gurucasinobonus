@@ -41,7 +41,7 @@
       <div class="sectionBottomText__upperPart">
         <h1>Welcome Casino Bonuses</h1>
         <p>
-			If you’ve been a player for a while, you’ll know how important <a href="welcome-casino-bonuses.php" class="linkRed">welcome bonuses</a> can be! They set the tone of your whole time at the casino and give you the upper hand. When you’re looking for that great new bonus feeling, you want to make sure that you know exactly where you stand, what you’ll be receiving and how you can use it to your advantage!
+			If you’ve been a player for a while, you’ll know how important welcome bonuses can be! They set the tone of your whole time at the casino and give you the upper hand. When you’re looking for that great new bonus feeling, you want to make sure that you know exactly where you stand, what you’ll be receiving and how you can use it to your advantage!
         </p>
       </div>
     </div>

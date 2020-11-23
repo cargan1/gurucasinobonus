@@ -52,7 +52,7 @@
           </div>
     
           <div class="sectionMain__contentList__item__contentRight">
-            <h3>JustSpin: 500 Free Spins No Deposit</h3>
+            <h3>JustSpin: 600 Free Spins</h3>
             <div class="sectionMain__contentList__item__contentRight__topBtns">
               <a href="#" class="playerTypeBtn">
                 <picture>
@@ -71,8 +71,7 @@
             </div>
       
             <p>
-              JustSpin Come and take a look at our all-new bonus! When you sign up, you’ll get 500 Free Spins, with no deposit. Now that’s hard to beat!
-            </p>
+            JustSpin Come and take a look at our all-new bonus! When you sign up, your first deposit is doubled (100%) which means that you get up to €100 for free + 600 Free Spins. Now that’s hard to beat! </p>
       
              
             <div class="sectionMain__contentList__item__contentRight__bottomBtns">

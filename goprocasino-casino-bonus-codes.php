@@ -49,19 +49,11 @@ With a fun new space theme, GoProCasino adds a new layer of enjoyment and fun to
 
 <?php include "./include/review_page_horizontal_box_goprocasino.php"; ?>
 
-<p>Not only do they offer state of the art programs can games, but they also offer a couple of amazing bonus offers to new members, who sign up and deposit money into their account. To start with, they offer 100 free spins when you join, which is a great way to explore some fun games and cut your teeth on the more complex games that they have to offer. Not only that, but they also offer 100% match bonus, up to $100. If you want to make some money, bet big and win big, then you absolutely have to take advantage of this offer. Not only are you getting free spins, but you are basically getting free cash. This allows you to bet bigger, and harder, to play longer and to enjoy your play time to its fullest. If you’re ready to learn more and experience the thrill of GoProCasino online playing, then don’t go anywhere!</p>
+<p>Not only do they offer state of the art programs can games, but they also offer a couple of amazing bonus offers to new members, who sign up and deposit money into their account. To start with, they offer 100 free spins when you join, which is a great way to explore some fun games and cut your teeth on the more complex games that they have to offer. Not only that, but they also offer 150 welcome spins. If you want to make some money, bet big and win big, then you absolutely have to take advantage of this offer. Not only are you getting free spins, but you are basically getting free cash. This allows you to bet bigger, and harder, to play longer and to enjoy your play time to its fullest. If you’re ready to learn more and experience the thrill of GoProCasino online playing, then don’t go anywhere!</p>
       </div>
     </div>
   </section>
   
-  <section class="sectionBottomText">
-    <div class="container">
-      <div class="sectionBottomText__upperPart">
-        <h2>GoProCasino Casino Bonus Codes</h2>
-        <p>
-Let’s start with the GoProCasino Welcome Bonus - 100% bonus on your first deposit up to $100 Unless otherwise stated. This bonus only applies for deposits of $20 or higher! All you need to do is just deposit the money in your GoProCasino account and you will receive this bonus instantly! Deposit $30 get $30 free, play with $60.Deposit $60 get $60 free, play with $120.Deposit $90 get $90 free, play with $180. The "Welcome bonus" is limited to one bonus per household. Please note that in the interests of fair gaming, we require you to have wagered a minimum of 35 times the sum of your welcome bonus before cashing out any winnings. This welcome bonus is a great way to engage in your playing, bet more, bet harder and really enjoy yourself! Not only are there online casino games, but they have scratch cards and a live casino, all which really enhance the playing experience and bring everything to life that much more. If you’re interested in checking this site out, then make sure you take full advantage of the bonus offer! Instead of just depositing a small amount, and wagering it, before depositing more, why not deposit a lump sum and receive the full bonus? This is a great way to really make the most of your money, so why not take advantage of it?
-        </p>
-</div>
       <div class="sectionBottomText__textThree">
         <h2>GoProCasino Free Spin No Deposits Bonus Codes</h2>
         <p>
@@ -91,7 +83,7 @@ All free games credited to a player's account must be used within 1 day from whe
             <span></span>
             <h4>2020-December-31</h4>
             <span></span>
-            <h4>100</h4>
+            <h4>150</h4>
           </div>
   
 
@@ -138,11 +130,11 @@ But these amazing bonus offers probably won’t be on offer for very long, so ma
             <span></span>
             <h4>2020-December-31</h4>
             <span></span>
-            <h4>$10</h4>
+            <h4>None</h4>
 			<span></span>
-            <h4>100 Free Spins</h4>
+            <h4>150 Free Spins</h4>
 			<span></span>
-			<h4>100% Match Up To $100</h4>
+			<h4>150 welcome spins</h4>
           </div>
   
 
@@ -162,7 +154,7 @@ But these amazing bonus offers probably won’t be on offer for very long, so ma
 We want you to succeed and to have fun. So, if you want to find out more about the bonuses that are offered, go and check out GoProCasino’s full website. GoProCasino come highly recommended by hundreds of experienced players and are fully compliant with gambling laws and legislation, so you don’t have to worry about a thing.  
 </p>
         <p>
-To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. For more chances to win and profit, sign up today and benefit from the world-class bonus system! CLICK HERE TO JOIN!
+To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. For more chances to win and profit, sign up today and benefit from the world-class bonus system! <a href="./claim-bonus/goprocasino.php">CLICK HERE TO JOIN</a>!
         </p>
 		<p>
 **This review is affiliated with GoProCasino Casinos. For full terms and conditions, review the Terms and Conditions page, which can be found on the main website. For any questions, make sure to contact support at GoProCasino Casino. Please gamble responsibly.

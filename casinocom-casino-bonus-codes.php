@@ -47,7 +47,7 @@ Casino.com is a big rising star in the online casino world. Not only do they hav
 		  </p>    
 <?php include "./include/review_page_horizontal_box_casinocom.php"; ?>
         <p>
-What else makes them so special? They are also currently offering some pretty amazing bonuses. Not only are they offering 200 free spins when you sign up with them, but they are also offering a 100% match bonus, of up to $400! A $400 bonus is really impressive, since this is free cash that they are giving you to use in their casino. This allows you to place bigger bets and go all in when you’re playing. You don’t have to hold back on their amazing game selection when you have an impressive bonus like this on hand! If you want to learn more about these two great bonuses, then keep reading! We’ll go in depth about what makes these bonuses so great, so that you can make the best possible choice, and have the best possible playing experience.</p>
+What else makes them so special? They are also currently offering some pretty amazing bonuses. Not only are they offering 200 free spins when you sign up with them, but they are also offering a 100% match bonus, of up to $1000! A $1000 bonus is really impressive, since this is free cash that they are giving you to use in their casino. This allows you to place bigger bets and go all in when you’re playing. You don’t have to hold back on their amazing game selection when you have an impressive bonus like this on hand! If you want to learn more about these two great bonuses, then keep reading! We’ll go in depth about what makes these bonuses so great, so that you can make the best possible choice, and have the best possible playing experience.</p>
      	  
       </div>
     </div>
@@ -57,7 +57,7 @@ What else makes them so special? They are also currently offering some pretty am
     <div class="container">
       <div class="sectionBottomText__upperPart">
         <h2>Casino.com Casino Bonus Codes</h2>
-<p>Let’s start by taking a look at the most impressive part of the offerings, the 100% match bonus that they are offering on all first deposits. This means that any money that you deposit will be matched, up to $400, which is incredible. When you look at all the casinos who offer $10 bonuses for joining, or match bonuses that only go up to $100, you can see why we’re just so impressed with Casino.com, for offering a match bonus that is this high! They are not easy to come by and they make such a big difference in the experience of their players. The bonus will automatically be credited to your account and you will be able to play with it straight away. Once you have played with the funds that you have deposited, you will then be able to use the bonus money that has been added to your account. You can withdraw your bonus funds once you have played through the Casino bonus funds 35 times! </p>
+<p>Let’s start by taking a look at the most impressive part of the offerings, the 100% match bonus that they are offering on all first deposits. This means that any money that you deposit will be matched, up to $1000, which is incredible. When you look at all the casinos who offer $10 bonuses for joining, or match bonuses that only go up to $100, you can see why we’re just so impressed with Casino.com, for offering a match bonus that is this high! They are not easy to come by and they make such a big difference in the experience of their players. The bonus will automatically be credited to your account and you will be able to play with it straight away. Once you have played with the funds that you have deposited, you will then be able to use the bonus money that has been added to your account. You can withdraw your bonus funds once you have played through the Casino bonus funds 35 times! </p>
 <p>While table games and Video Poker generate a lower contribution to your bonus conversion, you can still withdraw once you’ve gone through the 35 play-throughs, which is standard practice for casinos (it just reduces fees and increases fair play, which is what we all want, right?).</p>
 </div>
    <div class="sectionBottomText__textThree">
@@ -134,7 +134,7 @@ Feeling excited yet? With an amazing selection of games, an unbeatable signup bo
             <span></span>
             <h4>200</h4>
 			<span></span>
-            <h4>100% Bonus up to $400</h4>
+            <h4>100% Bonus up to $1000</h4>
           </div>
   
 
@@ -153,7 +153,7 @@ Feeling excited yet? With an amazing selection of games, an unbeatable signup bo
         <p>
 If you want to find out more about the bonuses that are offered, go and check out Casino.com’s full website. Casino.com comes highly recommended by hundreds of experienced players and are fully compliant with gambling laws and legislation, so you don’t have to worry about a thing.
         </p>
-<p>To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. For more chances to win and profit, sign up today and benefit from the world-class bonus system! CLICK HERE TO JOIN!</p>	
+<p>To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. For more chances to win and profit, sign up today and benefit from the world-class bonus system! <a href="./claim-bonus/casinocom.php">CLICK HERE TO JOIN!</a> </p>	
 			<p>**This review is affiliated with Casino.com Casinos. For full terms and conditions, review the Terms and Conditions page, which can be found on the main website. For any questions, make sure to contact support at Casino.com Casino. Please gamble responsibly.
 				</p>
   <br />

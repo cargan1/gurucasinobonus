@@ -10,7 +10,7 @@
           </div>
           <span></span>
           <div class="sectionBonusList__allItems__item__name">
-            <h3>100% Bonus up to $500</h3>
+            <h3>100% bonus up to $500 + 20 Free Spins</h3>
           </div>
           <span></span>
     

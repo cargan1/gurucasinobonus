@@ -44,10 +44,10 @@
         <h1>Casumo Casino Bonus Codes 2020</h1>
         
         <p>
-Right now, Casumo Casinos are offering an amazing bonus for first time users! When you sign up and make your first deposit, you automatically qualify for their incredible signup offer, which is a 100% Match bonus, up to $500! Now, $500 is no small amount, so it’s really impressive that they’ve got this on offer. If you haven’t heard about Casumo Casino before now, then you’re missing out! Casumo Casino is an incredible, cutting edge online casino that specializes in incredible service, amazing games and so much more. If you are looking for a casino that is a cut above the rest, then Casumo is a great decision.
+Right now, Casumo Casinos are offering an amazing bonus + 20 spins for first time users! When you sign up and make your first deposit, you automatically qualify for their incredible signup offer, which is a 100% Match bonus, up to $500! Now, $500 is no small amount, so it’s really impressive that they’ve got this on offer. If you haven’t heard about Casumo Casino before now, then you’re missing out! Casumo Casino is an incredible, cutting edge online casino that specializes in incredible service, amazing games and so much more. If you are looking for a casino that is a cut above the rest, then Casumo is a great decision.
 		  </p>
 		  <p>
-In fact, with the 100% match bonus, up to $500, you get a really good deal when you sign up. We highly recommend this site of you’re looking for high quality gambling in a friendly environment. After all, things like bonus payments and atmosphere can make or break a casino, and they are important considerations for any gambler, new or experienced!
+In fact, with the 100% match bonus, up to $500 + 20 spins, you get a really good deal when you sign up. We highly recommend this site of you’re looking for high quality gambling in a friendly environment. After all, things like bonus payments and atmosphere can make or break a casino, and they are important considerations for any gambler, new or experienced!
 		  </p>
 <?php include "./include/review_page_horizontal_box_casumo.php"; ?>
 		  
@@ -61,7 +61,7 @@ In fact, with the 100% match bonus, up to $500, you get a really good deal when 
         <h2>Casumo Casino Match Bonus Code</h2>
         
         <p>
-The bonus at this casino is a simple one, but that doesn’t mean that it should be underestimated in any way. In fact, this simplicity allows it to really shine. The bonus is 100% match, which is really rare when it comes to casinos. Typically, you’ll find matches that are 50% or less, so 100% match for your first deposit is a really good way to get started and double your potential winnings. This ability to bet bigger can really give you a competitive edge and can make all of the difference in your playing. Any experienced player knows that the size and timing of your bet can make a big difference, and so can the number of spins on your slots. Placing good wagers is critical and this bonus will help you do just that! With a 100% match of up to $500, you can easily end up with $1000 in gambling credits.
+The bonus at this casino is a simple one, but that doesn’t mean that it should be underestimated in any way. In fact, this simplicity allows it to really shine. The bonus is 100% match, which is really rare when it comes to casinos. Typically, you’ll find matches that are 50% or less, so 100% match for your first deposit is a really good way to get started and double your potential winnings. This ability to bet bigger can really give you a competitive edge and can make all of the difference in your playing. Any experienced player knows that the size and timing of your bet can make a big difference, and so can the number of spins on your slots. Placing good wagers is critical and this bonus will help you do just that! With a 100% match of up to $500 + 20 spins, you can easily end up with $1000 in gambling credits.
         </p>
 </div>
       
@@ -89,7 +89,7 @@ The bonus at this casino is a simple one, but that doesn’t mean that it should
             <span></span>
             <h4>$10</h4>
             <span></span>
-            <h4>100% Match up to $500</h4>
+            <h4>100% Match up to $500 + 20 spins</h4>
           </div>
   
 
@@ -118,11 +118,11 @@ This extra $500 is a great way to get on top of the new games that are offered a
 If you’re looking for a challenge, and a casino that can help you achieve great things, then look no further than Casumo. Casumo casinos are suited to both high roller experienced players, and newbies. No matter what your skill level, there is a game for you, an experience for you and a story to tell. You’ll get the opportunity to play with great online slot games, learn new games as they are released each month and make money on the slot machines.
         </p>
         <p>
-Bonuses like this are not offered very often, so it would be crazy to pass up this opportunity. Most places will offer you a $10 sign up bonus, or a few free spins, but you have the opportunity to flourish and thrive in your playing, with Casumo’s massive 100% match bonus, up to $500. That’s a pretty impressive bonus that’s hard to beat and we’ll tell you right now that they are really hard to come by. So, if you’re looking for a new favorite online gambling spot, or you’ve been hungering for some new action in your life, then this is the casino for you!
+Bonuses like this are not offered very often, so it would be crazy to pass up this opportunity. Most places will offer you a $10 sign up bonus, or a few free spins, but you have the opportunity to flourish and thrive in your playing, with Casumo’s massive 100% match bonus, up to $500 + 20 spins. That’s a pretty impressive bonus that’s hard to beat and we’ll tell you right now that they are really hard to come by. So, if you’re looking for a new favorite online gambling spot, or you’ve been hungering for some new action in your life, then this is the casino for you!
         </p>
     </div>
  <div class="sectionBottomText__textThree">
-        <h2>Casumo Welcome Bonus</h2>
+        <h2>Casumo Casino Bonus</h2>
         <p>
 			Are you exited yet? We certainly hope so! After all. Casumo is offering a great, once in a lifetime deal, and you can be in on it if you’re quick. We recommend that you deposit a lump-sum amount, instead of making a few small deposits, in order to take full advantage of the first-time deposit 100% match bonus! If you want to find out more about the bonuses that are offered, go and check out <a href="/claim-bonus/casumo.php" class="linkRed">Casumo’s full website</a>. Casumo come highly recommended by hundreds of experienced players and are fully compliant with gambling laws and legislation, so you don’t have to worry about a thing.  Make sure that you read them if you have any questions!
         </p>

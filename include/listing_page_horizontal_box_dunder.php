@@ -57,7 +57,7 @@
               </picture>
               <!--One Rating Star End-->
             </div>
-            <a href="./dunder-casino-bonus-codes.php" class="sectionBonusList__allItems__item__review__reviewName">Dunder Casino Bonuses</a>
+            <a href="./dunder-casino-bonus-codes.php" class="sectionBonusList__allItems__item__review__reviewName">Dunder</a>
           </div>
     
           <span></span>
@@ -70,6 +70,6 @@
           <div class="sectionBonusList__allItems__item__btn">
 			  <a href="./claim-bonus/dunder.php" role="button">CLAIM BONUS</a>
       
-            <a href="./claim-bonus/dunder.php">Visit Casumo</a>
+            <a href="./claim-bonus/dunder.php">Visit Dunder</a>
           </div>
         </div>

@@ -35,7 +35,7 @@
         
         <ul class="hidde">
           <li>
-            <a href="/21casino-bonus-codes.php">21Casino Bonus Codes</a>
+            <a href="/21casino-bonus-codes.php">21.com Casino Bonus Codes</a>
           </li>
           <li>
             <a href="/playamo-casino-bonus-codes.php">Playamo Bonus Codes</a>

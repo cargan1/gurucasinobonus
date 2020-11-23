@@ -10,7 +10,7 @@
           </div>
           <span></span>
           <div class="sectionBonusList__allItems__item__name">
-            <h3>500</h3>
+            <h3>$500 BONUS + 600 FREE SPINS</h3>
           </div>
           <span></span>
     
@@ -70,6 +70,6 @@
           <div class="sectionBonusList__allItems__item__btn">
 			  <a href="./claim-bonus/justspin.php" role="button">CLAIM BONUS</a>
       
-            <a href="./claim-bonus/justspin.php">Visit Casumo</a>
+            <a href="./claim-bonus/justspin.php">Visit JustSpin</a>
           </div>
         </div>

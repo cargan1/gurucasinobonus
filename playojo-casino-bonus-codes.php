@@ -114,7 +114,7 @@ Are you getting excited yet? If so, we highly recommend that you check out the c
         <p>
 If you’re ready to play, then we think you’ve made the right choice in casino! If you want to find out more about the bonuses that are offered, go and check out PlayOjo’s full website. PlayOjo come highly recommended by hundreds of experienced players and are fully compliant with gambling laws and legislation, so you don’t have to worry about a thing.  
         </p>
-<p>To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. For more chances to win and profit, sign up today and benefit from the world-class bonus system! CLICK HERE TO JOIN!</p>	
+<p>To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. For more chances to win and profit, sign up today and benefit from the world-class bonus system! <a href="./claim-bonus/playojo.php">CLICK HERE TO JOIN!</a></p>	
 			<p>**This review is affiliated with PlayOjo Casinos. For full terms and conditions, review the Terms and Conditions page, which can be found on the main website. For any questions, make sure to contact support at PlayOjo Casino. Please gamble responsibly.
 				</p>
   <br />

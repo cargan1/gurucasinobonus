@@ -58,7 +58,7 @@
             </div>
             <span></span>
             <div class="sectionBottomText__bonus__allBonus__item__name">
-              <h3>$1750 Welcome Bonus</h3>
+              <h3>$200 Welcome Bonus</h3>
             </div>
             <span></span>
     
@@ -74,7 +74,7 @@
                 <li>
                   <div class="itemCircle"></div>
                   <h3>
-                    $1250 bonus + 500 Free Spins
+                  100% up to $200 + 100 Free Spins
                   </h3>
                 </li>
               </ul>

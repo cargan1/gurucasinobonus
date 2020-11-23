@@ -43,7 +43,7 @@
       <div class="sectionBottomText__upperPart">
         <h1>Rizk Casino Bonus Codes 2020</h1>
     		  <p>
-Rizk Online Casino has some of the best industry bonuses that we’ve seen in a long while! Not only do you receive 150 free spins when you sign up, but you also receive $1500 bonus when you deposit into your account! rizk is known for its huge range of games, and betting options, as well as having a high respect and treatment for VIPS and High rolling clients! If you are serious about how you play and you want a casino that can keep up, then rizk is your best bet.
+Rizk Online Casino has some of the best industry bonuses that we’ve seen in a long while! Not only do you receive 50 free spins when you sign up, but you also receive $300 bonus when you deposit into your account! rizk is known for its huge range of games, and betting options, as well as having a high respect and treatment for VIPS and High rolling clients! If you are serious about how you play and you want a casino that can keep up, then rizk is your best bet.
 		  </p>    
 <?php include "./include/review_page_horizontal_box_rizk.php"; ?>
         <p>
@@ -57,7 +57,7 @@ Not only is the top of the range when it comes to gambling, but they are unrival
     <div class="container">
       <div class="sectionBottomText__upperPart">
         <h2>Rizk Casino Bonus Codes</h2>
-<p>When you sign up for rizk, you immediately get a bonus, the moment that you add funds to your account. When you add funds, we will double your deposit amount. The maximum bonus amount is 500 CAD. Depositing 500 CAD will get you 1000 CAD to begin playing with. Please mind the wagering requirement here - the maximum bet is 6,5 CAD. This means that your money will go far, and you’ll get many, many wagers in with this cash. This means more time to play and more chances to win. The special code for this is: FIRSTDEP. Remember that when you are signing up, since it can make all of the difference to your playing! If you need extra incentive, you’ll 20 free spins for the Lucky Lady's Clover slot (in the first 24 hours after signing up) and 20 more spins every day, for the next 4 days! That adds up quickly, especially for a first sign-up deposit bonus.</p>
+<p>When you sign up for rizk, you immediately get a bonus, the moment that you add funds to your account. When you add funds, we will double your deposit amount. The maximum bonus amount is $150. Depositing $150 will get you $300 to begin playing with. Please mind the wagering requirement here - the maximum bet is $7,5. This means that your money will go far, and you’ll get many, many wagers in with this cash. This means more time to play and more chances to win. The special code for this is: FIRSTDEP. Remember that when you are signing up, since it can make all of the difference to your playing! If you need extra incentive, you’ll 20 free spins for the Lucky Lady's Clover slot (in the first 24 hours after signing up) and 20 more spins every day, for the next 4 days! That adds up quickly, especially for a first sign-up deposit bonus.</p>
 </div>
    <div class="sectionBottomText__textThree">
         <h2>Rizk Free Spin No Deposits Codes</h2>
@@ -65,7 +65,7 @@ Not only is the top of the range when it comes to gambling, but they are unrival
 One amazing thing that really makes rizk stand out in the industry, is the fact that they also offer a second deposit bonus. So, not only will you get rewarded for signing up the first time, but you’ll get rewarded for topping up your account with more money. And, the more that you deposit, the more you will be rewarded.
         </p>
         <p>
-For your second deposit, they will give a bonus 50% of your deposit amount. The maximum bonus amount is 1,000 CAD. So, you deposit 2,000 CAD and play with 3,000 CAD. Again, please mind the maximum bet amount is 6,5 CAD when wagering the bonus, which means it will go for ages when you’re playing! Just use the code: SECONDDEP, when making your second deposit, to take full advantage of the offers! When you activate this bonus, you also activate 50 free spins for the Lucky Blue slot! With Rizk Casino, the bonuses just keep piling up and up and up! It’s pretty hard to go wrong with an online casino that gives away so much free money and extra, free spins to all of their players. It really helps give you the edge and makes sure that you start ahead of the game. If you want to win, rizk is absolutely the right choice.
+For your second deposit, they will give a bonus 50% of your deposit amount. The maximum bonus amount is $300. So, you deposit $150 and play with $300. Again, please mind the maximum bet amount is $7,5 when wagering the bonus, which means it will go for ages when you’re playing! Just use the code: SECONDDEP, when making your second deposit, to take full advantage of the offers! When you activate this bonus, you also activate 50 free spins for the Lucky Blue slot! With Rizk Casino, the bonuses just keep piling up and up and up! It’s pretty hard to go wrong with an online casino that gives away so much free money and extra, free spins to all of their players. It really helps give you the edge and makes sure that you start ahead of the game. If you want to win, rizk is absolutely the right choice.
         </p>
 		</div>
 	      <div class="sectionBottomText__middleBox">
@@ -105,7 +105,7 @@ For your second deposit, they will give a bonus 50% of your deposit amount. The 
   <div class="sectionBottomText__textThree">
         <h2>Rizk Casino Welcome Bonus</h2>
         <p>
-Now, let’s touch on the free spins that you get when you sign up. 150 spins are no small amount, especially when you consider that many casinos only give away 10 or so spins, for their bonus. Having access to not only the bonus money in your account, but free spins, can really help you get started on the right note.
+Now, let’s touch on the free spins that you get when you sign up. 50 spins are no small amount, especially when you consider that many casinos only give away 10 or so spins, for their bonus. Having access to not only the bonus money in your account, but free spins, can really help you get started on the right note.
         </p>
 	  <p>Is there an amazing new slot game that you want to try out? Take advantage of your free spins, to learn the ropes and see if you like it, absolutely risk-free! I mean, these are free spins, so there’s no harm in using them to test a few things out! But, if you like routine and have a favorite slot game, then using these free spins can help you stay ahead of the game, and really start to rack up that cash before you even spend a cent of your own on the machines. If that isn’t value for money, then we just don’t know what is. Honestly, rizk is one of the better Casinos out there, for bonuses, and treating their players like the high rollers that they are!</p>
     </div>
@@ -152,7 +152,7 @@ Now, let’s touch on the free spins that you get when you sign up. 150 spins ar
         <p>
 If you want to find out more about the bonuses that are offered, go and check out rizk’s full website. With cutting-edge bonuses, amazing games and a high-roller matching, this is absolutely the website to use if you are serious about how you play, and how to partake in the game! If you want nothing but the best, then this is the casino for you. rizk comes highly recommended by hundreds of experienced players and are fully compliant with gambling laws and legislation, so you don’t have to worry about a thing.  
         </p>
-<p>To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. After all, if hundreds of people trust rizk, how can you go wrong? Play big, have fun, and make the most out of your bonus cash and spins. For more chances to win and profit, sign up today and benefit from the world-class bonus system! CLICK HERE TO JOIN!</p>	
+<p>To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. After all, if hundreds of people trust rizk, how can you go wrong? Play big, have fun, and make the most out of your bonus cash and spins. For more chances to win and profit, sign up today and benefit from the world-class bonus system! <a href="./claim-bonus/rizk.php">CLICK HERE TO JOIN!</a></p>	
 			<p>**This review is affiliated with rizk Casinos. For full terms and conditions, review the Terms and Conditions page, which can be found on the main website. For any questions, make sure to contact support at rizk Casino. Please gamble responsibly.
 				</p>
   <br />

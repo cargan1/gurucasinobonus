@@ -74,7 +74,7 @@
                 <li>
                   <div class="itemCircle"></div>
                   <h3>
-                    $1,000 bonus + 100 Free Spins
+                    $1,000 bonus + 200 Free Spins
                   </h3>
                 </li>
               </ul>

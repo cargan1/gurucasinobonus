@@ -201,7 +201,7 @@ At this stage, you should be pretty hyped for this bonus, but don’t forget tha
 <p>If you want to find out more about the bonuses that are offered, go and check out Casiplay’s full website. Casiplay come highly recommended by hundreds of experienced players and are fully compliant with gambling laws and legislation, so you don’t have to worry about a thing.
 	 </p>	
 			<p>
-To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. For more chances to win and profit, sign up today and benefit from the world-class bonus system! CLICK HERE TO JOIN!
+To find out more about their privacy policy and other terms and conditions, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. For more chances to win and profit, sign up today and benefit from the world-class bonus system! <a href="./claim-bonus/casiplay.php">CLICK HERE TO JOIN!</a>
 				</p>
 		<p>**This review is affiliated with Casiplay Casinos. For full terms and conditions, review the Terms and Conditions page, which can be found on the main website. For any questions, make sure to contact support at Casiplay Casino. Please gamble responsibly.</p>
 

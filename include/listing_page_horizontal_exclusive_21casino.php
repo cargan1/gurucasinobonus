@@ -58,7 +58,7 @@
             </div>
             <span></span>
             <div class="sectionBottomText__bonus__allBonus__item__name">
-              <h3>$2000 Exclusive Bonus</h3>
+              <h3>$1000 Exclusive Bonus</h3>
             </div>
             <span></span>
     
@@ -83,7 +83,7 @@
     
     
             <div class="sectionBottomText__bonus__allBonus__item__btn">
-                    <a href="./claim-bonus/jackiejackpot.php" role="button">TAKE BONUS</a>
+                    <a href="./claim-bonus/21casino.php" role="button">TAKE BONUS</a>
               <div>18+ <p> T&C's Apply</p> </div>
             </div>
   

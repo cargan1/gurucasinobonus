@@ -52,7 +52,7 @@
           </div>
     
           <div class="sectionMain__contentList__item__contentRight">
-            <h3>PlayOJO: 100% BONUS UP TO $500</h3>
+            <h3>PlayOjo: 50 FREE SPINS ON YOUR 1ST DEPOSIT</h3>
             <div class="sectionMain__contentList__item__contentRight__topBtns">
               <a href="#" class="playerTypeBtn">
                 <picture>
@@ -71,8 +71,8 @@
             </div>
       
             <p>
-             We’re a cut above the rest when it comes to fair play. Enjoy gambling at your own pace with our great new bonuses. All new members get 100% bonus of up to $500.
-            </p>
+            We’re a cut above the rest when it comes to fair play. Enjoy gambling at your own pace with our great new bonuses. All new members get 50 free spins on their 1st deposit.
+             </p>
       
             <div class="sectionMain__contentList__item__contentRight__bottomBtns">
               <a href="./claim-bonus/playojo.php" role="button" class="sectionMainItemBtn itemBtnOne">CLAIM BONUS</a>

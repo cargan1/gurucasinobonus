@@ -52,7 +52,7 @@
           </div>
     
           <div class="sectionMain__contentList__item__contentRight">
-            <h3>Rizk: 200 Free Spins No Deposit</h3>
+            <h3>Rizk: 100% BONUS UP TO $100 + 50 FREE SPINS</h3>
             <div class="sectionMain__contentList__item__contentRight__topBtns">
               <a href="#" class="playerTypeBtn">
                 <picture>
@@ -71,7 +71,7 @@
             </div>
       
             <p>
-Want to try something new? Our new members get exclusive access to amazing bonuses. Enjoy VIP access to 200 Free Spins, with no deposit necessary.
+            Want to try something new? Our new members get exclusive access to amazing bonuses. Enjoy VIP access to 50 Free Spins.
             </p>
       
             <div class="sectionMain__contentList__item__contentRight__bottomBtns">

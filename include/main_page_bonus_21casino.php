@@ -52,7 +52,7 @@
           </div>
     
           <div class="sectionMain__contentList__item__contentRight">
-            <h3>21.COM CASINO $2000 Welcome Bonus</h3>
+            <h3>21.COM CASINO $1000 Welcome Bonus</h3>
             <div class="sectionMain__contentList__item__contentRight__topBtns">
               <a href="#" class="playerTypeBtn">
                 <picture>
@@ -71,7 +71,7 @@
             </div>
       
             <p>
-              Get our Welcome Bonus package with $1000 Welcome Bonus + $1000 Free Spins and test our amazing 400+ casino games and experience an amazing universe!
+            Get our Welcome Bonus package with $1000 Welcome Bonus + 1000 Free Spins and test our amazing 400+ casino games and experience an amazing universe!
             </p>
       
             <div class="sectionMain__contentList__item__contentRight__bottomBtns">

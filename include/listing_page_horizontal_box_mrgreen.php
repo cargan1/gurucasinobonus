@@ -10,7 +10,7 @@
           </div>
           <span></span>
           <div class="sectionBonusList__allItems__item__name">
-            <h3>100% Match up Bonus</h3>
+            <h3>$1,200 Deposit bonus + 200 Free Spins</h3>
           </div>
           <span></span>
     

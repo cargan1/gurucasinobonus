@@ -7,7 +7,7 @@
               <img src="img/21.jpg" alt="21 Casino Bonus Codes">
             </picture>
             <div class="sectionBottomText__item__leftLogoText__text">
-              <h2>21Casino Bonus Code</h2>
+              <h2>21.com Casino Bonus Code</h2>
               <div class="sectionBottomText__item__leftLogoText__text__review">
                 <div class="sectionBottomText__item__leftLogoText__text__review__ratingStars">
             

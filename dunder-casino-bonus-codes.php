@@ -198,9 +198,7 @@ Take advantage of these bonuses before they disappear. After all, Dunder is prac
         <p>
 			If you want to find out more about the bonuses that are offered, go and check out <a href="/claim-bonus/dunder.php" class="linkRed">Dunder’s full website</a>. Dunder come highly recommended by hundreds of experienced players and are fully compliant with gambling laws and legislation, so you don’t have to worry about a thing.  
 			To find out more about their privacy policy and other <a href="/claim-bonus/dunder.php" class="linkRed">terms and conditions</a>, you can check it out here. The policy mostly outlines gambling laws and other practical concerns and is pretty standard for the industry. For more chances to win and profit, sign up today and benefit from the world-class bonus system! <a href="/claim-bonus/dunder.php" class="linkRed">CLICK HERE TO JOIN!</a></p>
-			<p>
-**This review is affiliated with Mr. Green Casinos. For full terms and conditions, review the Terms and Conditions page, which can be found on the main website. For any questions, make sure to contact support at Mr. Green’s Casino. Please gamble responsibly.
-	 </p>		
+
 
   <br />
         <h2 align="center">Dunder Alternative Casino Bonus Codes</h2>
