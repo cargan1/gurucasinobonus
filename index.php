@@ -30,6 +30,7 @@
     <?php include "./include/main_page_bonus_betsafe.php"; ?>
     <?php include "./include/main_page_bonus_spincasino.php"; ?>
     <?php include "./include/main_page_bonus_jackpotcity.php"; ?>
+    <?php include "./include/main_page_bonus_unikrn.php"; ?>
       </div>
 		
 <?php include "./include/menu_right.php"; ?>
