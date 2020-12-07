@@ -145,49 +145,6 @@ Just remember to play the free spins in a week, because they will expire in seve
 
       </div>
   
-  <div class="sectionBottomText__textThree">
-        <h2>Unikrn Welcome Casino Bonus</h2>
-<p>Unikrn is a gaming place for all types of gamblers. Whether you love sports betting, classic casino table games or spinning the reels at slot machines, you should try this one out. </p>
-<p>Unikrn also has so many other casino bonuses, that you can rest assured that there are always some deals offered to you. You get to enjoy even 20% cashbacks because of their great VIP Club, but they don’t even stop here. Unikrn offers special bonuses for Unikrn Virtual games, Sportsbook Football Loss Insurance and Esportbook Dota 2 Epic League Double Winnings deals. </p>
-<p>We could go on and on about all the fantastic campaigns and opportunities Unikrn offers, but this review would never end in that case. We highly recommend you to go to their site yourself to check it out and be amazed about all the different bonuses, we bet that you have not seen a variety like this many times before. </p>   
-</div>
-			      <div class="sectionBottomText__middleBox">
-        <div class="sectionBottomText__middleBox__container">
-          <div class="sectionBottomText__middleBox__container__left">
-    
-            <h3>Casino Bonus Type:</h3>
-            <span></span>
-            <h3>Bonus Code:</h3>
-            <span></span>
-            <h3>Expires On:</h3>
-            <span></span>
-            <h3>Minimum Deposit:</h3>
-			<span></span>
-            <h3>Bonus Deal:</h3>
-          </div>
-          <div class="sectionBottomText__middleBox__container__right">
-    
-            <h4>Welcome Bonus</h4>
-            <span></span>
-            <h4>BONUS4</h4>
-            <span></span>
-            <h4>2020-December-31</h4>
-            <span></span>
-            <h4>$10</h4>
-			<span></span>
-            <h4>100% up to $100</h4>
-          </div>
-  
-
-        </div>
-  
-        <div class="sectionBottomText__middleBox__btn">
-                    <a href="/claim-bonus/unikrn.php" role="button">TAKE BONUS</a>
-    
-          <div>18+ <p> T&C's Apply</p> </div>
-        </div>
-
-      </div>
   
  <div class="sectionBottomText__textThree">
         <h2>Exclusive Unikrn Bonuses</h2>
